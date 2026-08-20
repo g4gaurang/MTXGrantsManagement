@@ -18,6 +18,6 @@
 * Financial management includes grant budgets, matching requirements, cost\-reimbursement invoices, approvals, ERP exchange, payment status, recoveries, and reconciliation.
 * Named proof points come from the MTX product artifact supplied on August 20, 2026. Public-use approval remains a production publication gate.
 * HTML validation, JavaScript syntax checks, asset requests, and prohibited-language scans passed.
-* Lighthouse scores: performance 95, accessibility 100, best practices 100, and SEO 100.
+* Lighthouse scores: performance 96, accessibility 100, best practices 100, and SEO 100.
 * Manual desktop, mobile, keyboard, interaction, overflow, and console testing found no defects.
 * GitHub Pages is configured for `main`. Repository environment protection prevents feature\-branch deployment, so publication follows review and merge.
