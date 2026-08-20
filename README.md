@@ -27,7 +27,7 @@ The GitHub Pages workflow publishes the `main` branch to:
 * Closeout and records
 * Analytics, assistive AI, and agency integrations
 
-The dashboard figures are illustrative. Grants-specific MTX proof points remain placeholders until internal validation.
+The dashboard figures are illustrative. Named proof points come from the MTX Gov Grants Management product artifact supplied for this prototype and should receive public-use approval before production publication.
 
 ## Research basis
 
