@@ -16,8 +16,8 @@
   --surface: #f5f8fa;
   --white: #fff;
   --shadow: 0 24px 70px rgba(6, 25, 43, .14);
-  --font-body: "DM Sans", Arial, sans-serif;
-  --font-display: "Manrope", Arial, sans-serif;
+  --font-body: "Segoe UI", Arial, sans-serif;
+  --font-display: "Segoe UI", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
